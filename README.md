@@ -8,3 +8,9 @@ Prosjektet bruker Vite med Vanilla-template og består foreløpig av en enkel HT
 Installer avhengighetene med:
 
 pnpm install
+
+## Oppstart
+
+Start utviklingsserveren med:
+
+pnpm dev
