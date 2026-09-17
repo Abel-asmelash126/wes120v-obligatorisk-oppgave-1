@@ -14,3 +14,6 @@ pnpm install
 Start utviklingsserveren med:
 
 pnpm dev
+## Om prosjektet
+
+Prosjektet er laget for å øve på Vite, Git og versjonskontroll.
