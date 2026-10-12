@@ -22,3 +22,7 @@ Når serveren har startet, åpner du siden på localhost-adressen som Vite viser
 ## Om prosjektet
 
 Prosjektet er laget for å øve på Vite, Git og versjonskontroll.
+## Stoppe utviklingsserveren
+
+Trykk Ctrl + C i terminalen for å stoppe utviklingsserveren.
+Start den igjen med pnpm dev.
